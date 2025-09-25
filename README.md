@@ -25,7 +25,7 @@
 - 💻 풀스택 개발 (Frontend & Backend)
 - 📊 데이터 분석 프로젝트 경험
 - 🎨 UX/UI 디자인 관심
-- 📜 ADsP, GTQ 포토샵 1급 합격 / 정보처리기능사, SQLD 준비중
+- 📜 ADsP, GTQ 포토샵 1급, 정보처리기능사 필기 합격 
 
 ## 🔧 Tech Stack
 ```
